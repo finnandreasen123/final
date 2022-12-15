@@ -1,0 +1,25 @@
+/*this is for comments*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color:mintcream;
+    text-align: center;
+   
+
+
+}
+h1 {
+    background-color:rgb(136, 130, 130);
+    text-align:center;
+    padding: 30px;
+ 
+}
+.topnav {
+    overflow: hidden;
+    background-color:mintcream;
+
+}
+.footer {
+    background-color: darkgoldenrod;
+}
